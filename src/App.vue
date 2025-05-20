@@ -63,21 +63,21 @@
         </h1>
 
         <div class="md:flex gap-1 md:gap-10">
-          <button class="text-white bg-gray-800 submit-button hidden md:block">
-            View My Work
-          </button>
-          <button
+          <a href="#work" class="text-white bg-gray-800 submit-button hidden md:block">
+            View My Works
+          </a>
+          <a href="#contact-me"
             class="text-gray-800 border-4 border-gray-800 submit-button mb-5 md:mb-0"
           >
             Contact Me
-          </button>
+        </a>
         </div>
       </div>
 
       <div class="w-8/12 flex justify-end w-100">
         <img
           class="3xl:h-[800px] 2xl:h-[650px] xl:h-[550px] lg:h-[550px] md:h-[450px] sm:h-[350px]"
-          src="./assets/bg-darshan.png"
+          src="./assets/header.png"
           alt="user image"
         />
       </div>
@@ -240,7 +240,7 @@
   <div class="banner-2 md:flex items-center md:justify-evenly" id="about">
     <img
       class="md:h-[500px] h-[400px] w-auto"
-      src="./assets/darshan-footer.png"
+      src="./assets/profile.png"
       alt="user image"
     />
     <div class="space-y-5 py-8 px-8 md:py-16 md:px-20 md:w-1/2">
@@ -255,13 +255,13 @@
     </div>
   </div>
 
-  <div class="banner-1 flex h-full items-center">
+  <div class="banner-1 flex h-full items-center" id="contact-me">
     <div class="w-7/12 p-12">
       <h2 class="text-gray-700 md:text-6xl text-2xl font-Eczar mb-5 font-bold">
         Let’s work together and make everything super cute and super useful.
       </h2>
-      <a class="underline text-2xl text-blue-600 font-work_sans"
-        >📧 hire@author.com</a
+      <a href="mailto:darshanp.digitalmarketing@gmail.com" class="underline text-2xl text-blue-600 font-work_sans"
+        >📧 darshanp.digitalmarketing@gmail.com</a
       >
     </div>
     <div class="w-5/12 pr-28">
