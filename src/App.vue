@@ -8,7 +8,7 @@
         <div class="relative w-16 h-16">
           <img
             class="rounded-full border border-gray-100 shadow-sm"
-            src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=512&h=512&q=80"
+            src="https://media.licdn.com/dms/image/v2/D4D03AQFGjf4oumFaOg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1732537035684?e=2147483647&v=beta&t=PgmJdJNBsRtF9pFE_h8E4lGntSF5NPSsCGrWjoCjZ1U"
             alt="user image"
           />
         </div>
@@ -54,12 +54,12 @@
         >
           It's
           <a
-            href="https://www.linkedin.com/"
+            href="https://in.linkedin.com/in/paramar-darshan/"
             target="_blank"
             class="text-black hover:underline"
           >
-            Aliza Khan</a
-          >🙇‍♀️<br />Creative Designer and Storyteller
+            Darshan Parmar</a
+          ><span class="d-none">🙇‍♀️</span><br />Digital Marketing Executive
         </h1>
 
         <div class="md:flex gap-1 md:gap-10">
@@ -74,10 +74,10 @@
         </div>
       </div>
 
-      <div class="w-8/12 flex justify-end">
+      <div class="w-8/12 flex justify-end w-100">
         <img
           class="3xl:h-[800px] 2xl:h-[650px] xl:h-[550px] lg:h-[550px] md:h-[450px] sm:h-[350px]"
-          src="./assets/profile-female.png"
+          src="./assets/bg-darshan.png"
           alt="user image"
         />
       </div>
@@ -88,63 +88,54 @@
     <h3 class="heading3 my-5">My Recent Work</h3>
     <div class="card">
       <div class="space-y-5 py-8 px-8 md:py-16 md:px-20 md:w-1/2">
-        <h4 class="project-title item">Sheepify States</h4>
+        <h4 class="project-title item">Google & Meta Ads Expert:</h4>
         <p class="font-work_sans pr-12">
-          Designed some empty state screens in kawaii style for the popular
-          sheepify app.Tailwind lets you conditionally apply utility classes in
-          different states using variant modifiers. For example, use hover:gap-6
-          to only apply the gap-6 utility
+          I specialize in planning, launching, and optimizing high-performance ad campaigns across Google and Meta platforms. From keyword and audience research to ad copy creation and conversion tracking, I focus on driving measurable business results like increased traffic, lead generation, and ROI. My approach includes A/B testing, precise targeting, and continuous performance analysis to ensure campaigns deliver maximum value.
         </p>
-        <button class="text-sky-800 font-bold text-2xl tracking-wider">
+        <button class="d-none text-sky-800 font-bold text-2xl tracking-wider">
           View Case Study
         </button>
       </div>
       <div class="card-image bg-green-100">
         <img
           class="object-cover w-full h-72 md:h-96"
-          src="./assets/project1.png"
+          src="./assets/google-meta-ads.png"
         />
       </div>
     </div>
 
     <div class="card">
       <div class="space-y-5 py-8 px-8 md:py-16 md:px-20 md:w-1/2">
-        <h4 class="project-title item">Sheepify States</h4>
+        <h4 class="project-title item">Performance Marketing Specialist:</h4>
         <p class="font-work_sans pr-12">
-          Designed some empty state screens in kawaii style for the popular
-          sheepify app.Tailwind lets you conditionally apply utility classes in
-          different states using variant modifiers. For example, use hover:gap-6
-          to only apply the gap-6 utility
+          As a Performance Marketing Specialist, I focus on data-driven strategies to generate conversions and scale revenue through paid media channels. My work spans across platforms like Google Ads, Meta Ads, and other digital networks, with a strong emphasis on KPIs such as ROAS, CPA, and CTR. I leverage analytics, creative testing, and audience segmentation to continually refine campaign performance and deliver sustainable growth.
         </p>
-        <button class="text-sky-800 font-bold text-2xl tracking-wider">
+        <button class="text-sky-800 font-bold text-2xl tracking-wider d-none">
           View Case Study
         </button>
       </div>
       <div class="card-image">
         <img
           class="object-cover w-full h-48 md:h-96"
-          src="./assets/project2.png"
+          src="./assets/performance_marketing_manager.png"
         />
       </div>
     </div>
 
     <div class="card">
       <div class="space-y-5 py-8 px-8 md:py-16 md:px-20 md:w-1/2">
-        <h4 class="project-title">Sheepify States</h4>
+        <h4 class="project-title">Social Media Marketing Specialist:</h4>
         <p class="font-work_sans pr-12">
-          Designed some empty state screens in kawaii style for the popular
-          sheepify app.Tailwind lets you conditionally apply utility classes in
-          different states using variant modifiers. For example, use hover:gap-6
-          to only apply the gap-6 utility
+        I manage end-to-end social media strategies to build brand presence, engage audiences, and support business objectives. From crafting platform-specific content to scheduling, community management, and performance tracking, I ensure consistent messaging and engagement across Facebook, Instagram, LinkedIn, and Twitter. My work blends creativity with data insights to boost reach, grow followers, and improve interaction rates.
         </p>
-        <button class="text-sky-800 font-bold text-2xl tracking-wider">
+        <button class="text-sky-800 font-bold text-2xl tracking-wider d-none">
           View Case Study
         </button>
       </div>
       <div class="card-image bg-green-100">
         <img
           class="object-cover w-full h-72 md:h-96"
-          src="./assets/project1.png"
+          src="./assets/social-media-marketing.png"
         />
       </div>
     </div>
@@ -248,22 +239,17 @@
 
   <div class="banner-2 md:flex items-center md:justify-evenly" id="about">
     <img
-      class="md:h-[500px] h-[400px]"
-      src="./assets/about-female.png"
+      class="md:h-[500px] h-[400px] w-auto"
+      src="./assets/darshan-footer.png"
       alt="user image"
     />
     <div class="space-y-5 py-8 px-8 md:py-16 md:px-20 md:w-1/2">
-      <h4 class="project-title item">Sheepify States</h4>
+      <h4 class="project-title item">About Me</h4>
       <p class="font-work_sans">
-        I am Salman Khan from Lucknow, India. I am working in an Indian Startup
-        as a User Eperience Designer for the past two years.
-        <br />
-        I got featured various times on many big and small marketplaces,
-        portfolio websites and blogs. I also received some awards and
-        recognitions from some of the big and small award companies. Besides
-        designing, I like to watch anime, read books and solve sudoku.
+        I am Darshan Parmar from Gujarat, India. I am working in an Nextway Technologies
+        as a PPC Executive for the past three years.I'm a results-driven PPC Executive and Digital Marketing Expert with over 3 years of hands-on experience in creating, managing, and optimizing paid advertising campaigns across platforms like Google Ads, Meta (Facebook & Instagram), and more. I specialize in performance marketing, conversion tracking, and ROI-focused strategies to help brands grow online. With a strong understanding of SEO, analytics, and digital trends, I bring a holistic approach to digital marketing that drives measurable results.
       </p>
-      <button class="text-sky-800 font-bold text-2xl tracking-wider">
+      <button class="text-sky-800 font-bold text-2xl tracking-wider d-none">
         View Case Study
       </button>
     </div>
