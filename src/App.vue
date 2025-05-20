@@ -326,7 +326,7 @@
           </svg>
         </button>
 
-        <button
+        <a target="_blank" href="https://in.linkedin.com/in/paramar-darshan/"
           class="bg-gray-700 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
         >
           <svg
@@ -341,7 +341,7 @@
               ></path>
             </g>
           </svg>
-        </button>
+        </a>
       </div>
     </div>
   </div>
