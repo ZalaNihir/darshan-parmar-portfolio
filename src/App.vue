@@ -243,8 +243,7 @@
       <h2 class="text-gray-700 md:text-6xl text-2xl font-Eczar mb-5 font-bold">
         Let’s work together and make everything super cute and super useful.
       </h2>
-      <a href="mailto:darshanp.digitalmarketing@gmail.com" class="underline text-2xl text-blue-600 font-work_sans">📧
-        Mail Me here.</a>
+      <a href="mailto:darshanp.digitalmarketing@gmail.com" class="underline text-2xl text-blue-600 font-work_sans">📧 Mail.</a>
     </div>
     <div class="w-5/12 pr-28">
       <div class="flex flex-wrap justify-end gap-2">
