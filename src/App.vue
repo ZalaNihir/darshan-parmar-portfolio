@@ -23,7 +23,7 @@
       <ul :class="showMenu ? 'flex' : 'hidden'"
         class="flex-col items-end mt-8 space-y-4 md:flex md:space-y-0 md:flex-row md:items-center md:space-x-10 md:mt-0">
         <li class="menu-button"><a href="#">Home</a></li>
-        <li class="menu-button"><a href="#work" v-smooth-scroll>Works</a></li>
+        <li class="menu-button"><a href="#service" v-smooth-scroll>Service</a></li>
         <li class="menu-button">
           <a href="#testimonial" v-smooth-scroll>Testimonials</a>
         </li>
@@ -46,7 +46,7 @@
         </h1>
 
         <div class="md:flex gap-1 md:gap-10">
-          <a href="#work" class="text-white bg-gray-800 submit-button hidden md:block">
+          <a href="#service" class="text-white bg-gray-800 submit-button hidden md:block">
             View My Works
           </a>
           <a href="#contact-me" class="text-gray-800 border-4 border-gray-800 submit-button mb-5 md:mb-0">
@@ -62,7 +62,7 @@
     </div>
   </div>
 
-  <div class="banner-2 space-y-10 pb-20" id="work">
+  <div class="banner-2 space-y-10 pb-20" id="service">
     <h3 class="heading3 my-5">My Recent Work</h3>
     <div class="card">
       <div class="space-y-5 py-8 px-8 md:py-16 md:px-20 md:w-1/2">
@@ -84,7 +84,7 @@
         </button>
       </div>
       <div class="card-image bg-green-100">
-        <img class="object-cover w-full h-72 md:h-96" src="./assets/ppc.png" />
+        <img class="object-cover w-full h-48 md:h-96" src="./assets/ppc.png" />
       </div>
     </div>
 
