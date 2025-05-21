@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "vue": "^3.2.25",
+    "vue3-carousel": "^0.15.1",
     "vue3-smooth-scroll": "^0.8.1"
   },
   "devDependencies": {
