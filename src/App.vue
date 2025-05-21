@@ -244,7 +244,7 @@
         Let’s work together and make everything super cute and super useful.
       </h2>
       <a href="mailto:darshanp.digitalmarketing@gmail.com" class="underline text-2xl text-blue-600 font-work_sans">📧
-        darshanp.digitalmarketing@gmail.com</a>
+        Mail Me here.</a>
     </div>
     <div class="w-5/12 pr-28">
       <div class="flex flex-wrap justify-end gap-2">
