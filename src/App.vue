@@ -133,7 +133,7 @@
         </button>
       </div>
       <div class="card-image bg-green-100">
-        <img class="object-cover w-full h-72 md:h-96" src="./assets/performance-marketing.png" />
+        <img class="object-cover w-full h-48 md:h-96" src="./assets/performance-marketing.png" />
       </div>
     </div>
     
@@ -156,7 +156,7 @@
         </button>
       </div>
       <div class="card-image bg-green-100">
-        <img class="object-cover w-full h-72 md:h-96" src="./assets/social-media-marketing.png" />
+        <img class="object-cover w-full h-48 md:h-96" src="./assets/social-media-marketing.png" />
       </div>
     </div>
   </div>
