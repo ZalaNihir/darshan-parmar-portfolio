@@ -220,7 +220,7 @@
     </div>
   </div>
 
-    <div class="banner-2 md:flex items-center md:justify-evenly mb-[-20px]" id="about">
+    <div class="banner-2 md:flex items-center md:justify-evenly md:mb-[-55px]" id="about">
     <img
       class="md:h-[500px] h-[400px]"
       src="./assets/about.png"
@@ -228,7 +228,7 @@
     />
     <div class="space-y-5 py-8 px-8 md:py-16 md:px-20 md:w-1/2">
       <h4 class="project-title item italic">Who Am I?</h4>
-      <p class="italic text-sm">
+      <p class="italic text-md">
         Hi, I’m Darshan Parmar, <br> A PPC and Digital Marketing Expert based in Gujarat, India. With over 3 years of experience, I specialize in creating high-performance ad campaigns across Google, Meta (Facebook & Instagram) and more. <br> <br> I help businesses scale by combining performance marketing, precise conversion tracking, and ROI-driven strategies to deliver measurable growth. Beyond paid advertising, I bring a strong understanding of SEO, analytics, and the latest digital trends, providing your brand with a comprehensive 360° marketing advantage. <br>  <br>Whether you're looking to boost leads, improve ROI, or grow brand awareness, I’m here to make your marketing budget work smarter.
       </p>
       <button class="text-sky-800 font-bold text-2xl tracking-wider d-none">
