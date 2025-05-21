@@ -220,17 +220,16 @@
     </div>
   </div>
 
-  <div class="banner-2 md:flex items-center md:justify-evenly" id="about">
-    <img class="md:h-[500px] h-[400px] w-auto" src="./assets/profile.png" alt="user image" />
+    <div class="banner-2 md:flex items-center md:justify-evenly mb-[-20px]" id="about">
+    <img
+      class="md:h-[500px] h-[400px]"
+      src="./assets/about.png"
+      alt="user image"
+    />
     <div class="space-y-5 py-8 px-8 md:py-16 md:px-20 md:w-1/2">
-      <h4 class="project-title item">About Me</h4>
-      <p class="font-work_sans">
-        I am Darshan Parmar from Gujarat, India. I am working in an Nextway Technologies
-        as a PPC Executive for the past three years.I'm a results-driven PPC Executive and Digital Marketing Expert with
-        over 3 years of hands-on experience in creating, managing, and optimizing paid advertising campaigns across
-        platforms like Google Ads, Meta (Facebook & Instagram), and more. I specialize in performance marketing,
-        conversion tracking, and ROI-focused strategies to help brands grow online. With a strong understanding of SEO,
-        analytics, and digital trends, I bring a holistic approach to digital marketing that drives measurable results.
+      <h4 class="project-title item italic">Who Am I?</h4>
+      <p class="italic text-sm">
+        Hi, I’m Darshan Parmar, <br> A PPC and Digital Marketing Expert based in Gujarat, India. With over 3 years of experience, I specialize in creating high-performance ad campaigns across Google, Meta (Facebook & Instagram) and more. <br> <br> I help businesses scale by combining performance marketing, precise conversion tracking, and ROI-driven strategies to deliver measurable growth. Beyond paid advertising, I bring a strong understanding of SEO, analytics, and the latest digital trends, providing your brand with a comprehensive 360° marketing advantage. <br>  <br>Whether you're looking to boost leads, improve ROI, or grow brand awareness, I’m here to make your marketing budget work smarter.
       </p>
       <button class="text-sky-800 font-bold text-2xl tracking-wider d-none">
         View Case Study
