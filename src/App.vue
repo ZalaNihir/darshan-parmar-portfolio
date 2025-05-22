@@ -23,7 +23,7 @@
       <ul :class="showMenu ? 'flex' : 'hidden'"
         class="flex-col items-end mt-8 space-y-20 md:flex md:space-y-0 md:flex-row md:items-center md:space-x-10 md:mt-0">
         <li class="menu-button"><a href="#">Home</a></li>
-        <li class="menu-button"><a href="#service" v-smooth-scroll>Service</a></li>
+        <li class="menu-button"><a href="#service" v-smooth-scroll>Services</a></li>
         <li class="menu-button">
           <a href="#testimonial" v-smooth-scroll>Testimonials</a>
         </li>
@@ -33,10 +33,10 @@
     <!-- End Navbar -->
 
     <div class="flex items-center">
-      <div class="w-11/12 space-y-5 md:space-y-10">
+      <div class="w-11/12 space-y-5 md:space-y-12">
         <h3
           class="hello-button text-gray-700 w-fit md:py-3 md:px-5 py-1 px-2 rounded-lg 3xl:text-3xl 2xl:text-xl lg:text-xl md:text-md text-sm font-semibold font-work_sans">
-          🙏 Namaste,
+          🙏 Hello,
         </h3>
         <h1
           class="3xl:text-8xl 2xl:text-7xl xl:text-6xl lg:text-4xl md:text-3xl sm:text-3xl text-xl font-Eczar font-bold leading-tight text-gray-700">
@@ -44,6 +44,7 @@
           <a href="https://in.linkedin.com/in/paramar-darshan/" target="_blank" class="text-black hover:underline">
             Darshan Parmar, </a><span class="d-none">🙇‍♀️</span><br />Digital Marketing Expert
         </h1>
+        <p class="leading-tight italic sm:display-none">I help businesses grow with data-driven ads & smart digital strategies. 🚀</p>
 
         <div class="md:flex gap-1 md:gap-10">
           <a href="#service" class="text-white bg-gray-800 submit-button hidden md:block">
@@ -63,7 +64,7 @@
   </div>
 
   <div class="banner-2 space-y-10 pb-20" id="service">
-    <h3 class="heading3 my-5">My Recent Work</h3>
+    <h3 class="heading3 my-5">Services</h3>
     <div class="card">
       <div class="space-y-5 py-8 px-8 md:py-16 md:px-20 md:w-1/2">
         <h4 class="project-title item">Pay-Per-Click (PPC) Advertising:</h4>
@@ -347,14 +348,14 @@
   </div>
 
   <div class="banner-1 flex h-full items-center" id="contact-me">
-    <div class="w-7/12 p-12">
-      <h2 class="text-gray-700 md:text-6xl text-2xl font-Eczar mb-5 font-bold">
+    <div class="md:w-7/12 p-12 sm:w-full">
+      <h2 class="text-gray-700 md:text-6xl text-2xl font-Eczar mb-5 font-bold sm:text-xl">
         Got a project or question? I’m here to grow your brand with smart marketing.
       </h2>
-      <a href="mailto:darshanp.digitalmarketing@gmail.com" class="underline text-2xl text-blue-600 font-work_sans">📧
-        Mail.</a>
+      <a href="mailto:darshanp.digitalmarketing@gmail.com" class="underline lg:text-xl sm:text-lg md:text-lg text-blue-600 font-work_sans text-wrap">📧 Mail Me.</a>
+      <a href="callto:+919558868783" class="underline lg:text-xl sm:text-lg md:text-lg text-blue-600 font-work_sans text-wrap">📞 Call Me.</a>
     </div>
-    <div class="w-5/12 pr-28">
+    <div class="md:w-5/12 pr-28 sm:w-full">
       <div class="flex flex-wrap justify-end gap-2">
         <button class="bg-gray-700 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded">
           <svg class="w-4 h-4 md:w-10 md:h-10 lg:w-10 lg:h-10 xl:h-10 xl:w-10 fill-current" role="img"
@@ -424,5 +425,8 @@
 .carousel-item {
   flex: none;
   scroll-snap-align: start;
+}
+.display-none{
+  display: none;
 }
 </style>
