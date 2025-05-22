@@ -44,7 +44,9 @@
           <a href="https://in.linkedin.com/in/paramar-darshan/" target="_blank" class="text-black hover:underline">
             Darshan Parmar, </a><span class="d-none">🙇‍♀️</span><br />Digital Marketing Expert
         </h1>
-        <p class="leading-tight italic sm:display-none">I help businesses grow with data-driven ads & smart digital strategies. 🚀</p>
+        <h6 class="leading-tight italic hidden lg:block lg:text-xl">
+          I help businesses grow with data-driven ads & smart digital strategies. 🚀
+        </h6>
 
         <div class="md:flex gap-1 md:gap-10">
           <a href="#service" class="text-white bg-gray-800 submit-button hidden md:block">
