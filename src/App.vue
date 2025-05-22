@@ -352,7 +352,7 @@
       <h2 class="text-gray-700 md:text-6xl text-2xl font-Eczar mb-5 font-bold sm:text-xl">
         Got a project or question? I’m here to grow your brand with smart marketing.
       </h2>
-      <a href="mailto:darshanp.digitalmarketing@gmail.com" class="underline lg:text-xl sm:text-lg md:text-lg text-blue-600 font-work_sans text-wrap">📧 Mail Me.</a>
+      <a href="mailto:darshanp.digitalmarketing@gmail.com" class="underline lg:text-xl sm:text-lg md:text-lg text-blue-600 font-work_sans text-wrap">📧 Mail Me. <br></a>
       <a href="callto:+919558868783" class="underline lg:text-xl sm:text-lg md:text-lg text-blue-600 font-work_sans text-wrap">📞 Call Me.</a>
     </div>
     <div class="md:w-5/12 pr-28 sm:w-full">
