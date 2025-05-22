@@ -353,7 +353,10 @@
         Got a project or question? I’m here to grow your brand with smart marketing.
       </h2>
       <a href="mailto:darshanp.digitalmarketing@gmail.com" class="underline lg:text-xl sm:text-lg md:text-lg text-blue-600 font-work_sans text-wrap">📧 Mail Me. <br></a>
-      <a href="tell:+919558868783" class="underline lg:text-xl sm:text-lg md:text-lg text-blue-600 font-work_sans text-wrap">📞 Call Me.</a>
+      <a href="tel:+919558868783" class="underline lg:text-xl sm:text-lg md:text-lg text-blue-600 font-work_sans text-wrap">
+        📞 Call Me.
+      </a>
+
     </div>
     <div class="md:w-5/12 pr-28 sm:w-full">
       <div class="flex flex-wrap justify-end gap-2">
